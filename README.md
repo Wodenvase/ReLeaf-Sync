@@ -206,22 +206,3 @@ npm run build
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Documentation**: [API Docs](docs/api.md)
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-
-## 🎯 Roadmap
-
-- [ ] **Machine Learning Integration**: Advanced predictive analytics
-- [ ] **Mobile App**: React Native mobile application
-- [ ] **Blockchain Integration**: Carbon credit tracking
-- [ ] **IoT Device Support**: Additional sensor integrations
-- [ ] **Multi-language Support**: Internationalization
-- [ ] **Advanced Reporting**: Custom report generation
-
----
-
-**Made with 💚 for the planet** - Empowering individuals and organizations to track and reduce their carbon footprint through advanced technology and real-time data insights. 
